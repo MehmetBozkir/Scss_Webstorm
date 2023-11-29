@@ -10,4 +10,4 @@
   
   Screen Shot 
   ------------
-  <img src="https://northsoft.co/blog/wp-content/uploads/2022/11/image-1024x538.jpeg" alt="Slate: Foto1" width="900"> 
+  <img src="https://github.com/MehmetBozkir/Scss_Webstorm/blob/main/img/1812531090-1%20Cj_8NyQphUuRdE8zZfMt6g.png" alt="Slate: Foto1" width="900"> 
